@@ -2,6 +2,8 @@
   "name": "nexus-ui-kit",
   "version": "2.2.0",
   "description": "Atomic React UI Kit with Gemini AI integration",
+  "license": "MIT",
+  "author": "Shards Inc Ltd",
   "main": "index.tsx",
   "dependencies": {
     "react": "^19.0.0",
